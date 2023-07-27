@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abiyasfaw1996
 - 👀 I’m interested in software development 
 - 🌱 I’m currently learning cs50 and python
-- 💞️ I’m looking to collaborate on ways to middle level projects if u have one
+- 💞️ I’m looking to collaborate on from easy to middle level projects if u have one
 - 📫 How to reach me in telegram@abiyasf or gmail-abiyasfaw1996@gmail.com
 
 <!---
